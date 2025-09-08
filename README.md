@@ -1,5 +1,7 @@
 **Project title: E-commerce User Behavior Segmentation**
+
 **Type: Customer Segmentation**
+
 **Technique used: Hierarchical Clustering**
 
 **Project Objectives**
