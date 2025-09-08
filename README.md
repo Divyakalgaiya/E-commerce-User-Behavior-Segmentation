@@ -1,6 +1,6 @@
-**Project title: E-commerce User Behavior Segmentation
-Type: Customer Segmentation
-Technique used: Hierarchical Clustering**
+**Project title: E-commerce User Behavior Segmentation**
+**Type: Customer Segmentation**
+**Technique used: Hierarchical Clustering**
 
 **Project Objectives**
 Segment e-commerce customers into meaningful groups using unsupervised clustering algorithms.
